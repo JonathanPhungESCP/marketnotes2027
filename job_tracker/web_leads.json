@@ -1582,7 +1582,7 @@
       "published": "",
       "deadline": "2026-11-30",
       "open_confirmed": false,
-      "snippet": "Hang Seng Management Trainee programme, Global Markets stream, Hong Kong; starts Mon Jul 19, 2027, 2 years; legal right to work in Hong Kong required. Deadline 30 November 2026 per one listing (another source showed an older date).",
+      "snippet": "Hang Seng Management Trainee programme, Global Markets stream, Hong Kong; starts Mon Jul 19, 2027, 2 years; legal right to work in Hong Kong required. Deadline 30 November 2026 per one listing (confirmed by a second listing on 2026-11-25).",
       "site": "apply.careers.hsbc.com",
       "found": "2026-11-17",
       "query": "site:linkedin.com/jobs trainee Hong Kong markets trading 2027"
@@ -2119,6 +2119,19 @@
       "site": "builtinsingapore.com",
       "found": "2026-11-24",
       "query": "Singapore commodity trading graduate 2027 deadline December 2026 trader graduate programme"
+    },
+    {
+      "title": "V.I.E. Research Analyst - Global Banking & Investor Solutions - Hong Kong",
+      "company": "Societe Generale",
+      "location": "Hong Kong",
+      "url": "https://careers.societegenerale.com/en/sg_careers_offers_entity/96833",
+      "published": "2026-09-01",
+      "deadline": "",
+      "open_confirmed": false,
+      "snippet": "Societe Generale VIE Research Analyst, Hong Kong, 12 months, covering Asia's economies and financial markets; start date 2027/01/01, publication date 2026/09/01. (Link inferred from search results, to verify.)",
+      "site": "careers.societegenerale.com",
+      "found": "2026-11-25",
+      "query": "Hong Kong 2027 internship sales trading Société Générale Hong Kong intern 2027 global markets"
     }
   ]
 }
